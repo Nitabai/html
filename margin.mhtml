@@ -1,0 +1,70 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/margin.html
+Subject: 
+Date: Sun, 6 Mar 2022 08:01:49 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ptny0ZL1XY79zFp9UklhYf7EImnx5oOF7kHqep7rye----"
+
+
+------MultipartBoundary--ptny0ZL1XY79zFp9UklhYf7EImnx5oOF7kHqep7rye----
+Content-Type: text/html
+Content-ID: <frame-9CC6E21D5D4F2CDDD220657CDBAEFAFD@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/margin.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f0350e=
+22-82c1-46b1-b98d-533f4c8005e8@mhtml.blink" />
+       =20
+    </head>
+   <body>=20
+       <div>
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit.=20
+        Aenean commodo ligula eget dolor. Aenean massa.=20
+        Cum sociis natoque penatibus et magnis dis parturient montes,=20
+        nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesq=
+ue eu,=20
+        pretium quis, sem. Nulla consequat massa quis enim. Donec pede just=
+o, f
+        ringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rho=
+ncus ut,
+        imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mo=
+llis pretium.=20
+        Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
+         Aenean vulputate eleifend tellus.
+            =20
+       =20
+       </div>
+      =20
+       <div>
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit.=20
+        Aenean commodo ligula eget dolor. Aenean massa.=20
+        Cum sociis natoque penatibus et magnis dis parturient montes,=20
+        nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesq=
+ue eu,=20
+        pretium quis, sem. Nulla consequat massa quis enim. Donec pede just=
+o, fringilla vel,=20
+        aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imper=
+diet a,=20
+        venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.=
+ Integer tincidunt.=20
+        Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleif=
+end tellus.
+
+       </div>
+       <p></p>
+   <!-- Code injected by live-server -->
+
+</body></html>
+------MultipartBoundary--ptny0ZL1XY79zFp9UklhYf7EImnx5oOF7kHqep7rye----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f0350e22-82c1-46b1-b98d-533f4c8005e8@mhtml.blink
+
+@charset "utf-8";
+
+div { border: 2px solid green; margin: 20px; padding: 70px; background-colo=
+r: blueviolet; color: cornflowerblue; }
+------MultipartBoundary--ptny0ZL1XY79zFp9UklhYf7EImnx5oOF7kHqep7rye------
